@@ -10,7 +10,7 @@ description: Contact Sovorn Chea.
 
 # Contact
 
-For research, collaboration, hiring, or remote-work conversations, the best current public channels are:
+For research, collaboration, hiring, or remote-work conversations:
 
 - Email: [cheasovorn4@gmail.com](mailto:cheasovorn4@gmail.com)
 - LinkedIn: [painbyte](https://www.linkedin.com/in/painbyte)
@@ -18,4 +18,4 @@ For research, collaboration, hiring, or remote-work conversations, the best curr
 - ChhlatBot: [chhlatbot.com](https://chhlatbot.com)
 - X/Twitter: [sovornjg](https://twitter.com/sovornjg)
 
-I am especially open to conversations around PhD supervision, AI systems research, applied AI engineering, forward-deployed AI work, and remote opportunities.
+Open to conversations around doctoral research supervision, AI systems research, applied AI engineering, forward-deployed AI work, and remote opportunities.

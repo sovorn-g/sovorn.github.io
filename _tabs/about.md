@@ -10,18 +10,18 @@ description: About Sovorn Chea.
 
 # Sovorn Chea
 
-I am a PhD applicant and AI systems builder from Cambodia. I hold an M.E. in Computer Science and Technology from Hunan University and a B.S. in Management of Information Systems from Paragon International University.
+Sovorn Chea is an AI systems builder and research-oriented engineer from Cambodia, with an M.E. in Computer Science and Technology from Hunan University and a B.S. in Management of Information Systems from Paragon International University.
 
-This site is structured for two audiences:
+The portfolio is organized for two audiences:
 
-- Academic readers who want to understand my research direction, writing, and long-term interests.
-- Industry and remote-work readers who want a concise view of my technical focus and project work.
+- Academic readers who want to understand Sovorn's research direction, writing, and long-term interests.
+- Industry and remote-work readers who want a concise view of Sovorn's technical focus and project work.
 
 ## Current Direction
 
-My current direction is system-building research in agentic AI, agent memory, context engineering, and AI automation. I am preparing PhD scholarship applications in New Zealand while shaping a research direction that stays useful for real AI systems work.
+Current work centers on system-building research in agentic AI, agent memory, context engineering, and AI automation, with an emphasis on ideas that remain useful in real AI systems work.
 
-I am especially interested in:
+Key interests:
 
 - Agent loops, tool use, planning, and long-running AI workflows.
 - Episodic, semantic, working, and decision memory for AI agents.
@@ -38,7 +38,7 @@ I am especially interested in:
 
 ## What This Site Contains
 
-Use the navigation to find:
+Navigation:
 
 - [Research]({{ '/research/' | relative_url }}) for interests and reading direction.
 - [Projects]({{ '/projects/' | relative_url }}) for prototypes and technical work.

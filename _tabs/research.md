@@ -10,7 +10,7 @@ description: Research interests and reading direction.
 
 # Research
 
-My research direction is system-building work in agentic AI: design useful architectures, implement them, evaluate them, and turn them into reusable methods or benchmarks.
+The research direction is system-building work in agentic AI: design useful architectures, implement them, evaluate them, and turn them into reusable methods or benchmarks.
 
 ## Focus Areas
 
@@ -33,9 +33,9 @@ My research direction is system-building work in agentic AI: design useful archi
   </article>
 </div>
 
-## Current PhD Direction
+## Research Direction
 
-The strongest umbrella direction is reliable memory and context systems for LLM agents. For the AUT clinical-AI track, the current proposal direction is:
+The strongest umbrella direction is reliable memory and context systems for LLM agents. One doctoral research track explores:
 
 > Safer self-improving clinical decision support through metacognitive experiential memory.
 
@@ -56,5 +56,5 @@ Research notes and paper reviews will be published through [Writing]({{ '/writin
 ## Open To
 
 - Research collaboration around agent memory, context engineering, and AI automation.
-- PhD conversations in AI/ML, agentic AI, clinical AI reliability, and learning systems.
+- Academic conversations in AI/ML, agentic AI, clinical AI reliability, and learning systems.
 - Applied research, AI systems, AI engineering, and forward-deployed AI roles.

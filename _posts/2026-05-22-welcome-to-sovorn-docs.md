@@ -8,11 +8,11 @@ description: A place to document research notes, project logs, and work on AI ag
 
 ## Hello
 
-Welcome to my research notebook and portfolio. This is where I share research notes, project logs, paper reviews, and technical reflections around agentic AI, context engineering, AI automation, and applied machine-learning systems.
+This research notebook and portfolio collects research notes, project logs, paper reviews, and technical reflections around agentic AI, context engineering, AI automation, and applied machine-learning systems.
 
 ### About Me
 
-I'm **Sovorn Chea**, a PhD applicant and AI systems builder interested in:
+**Sovorn Chea** is an AI systems builder and research-oriented engineer interested in:
 
 - **Agentic AI** — autonomous agents, agent loops, planning, and tool use
 - **Agentic Memory** — episodic, semantic, working, and decision memory for AI agents
@@ -21,18 +21,18 @@ I'm **Sovorn Chea**, a PhD applicant and AI systems builder interested in:
 
 ### What to Expect Here
 
-This site serves as both a **portfolio** and a **public notebook**. You'll find:
+The site serves as both a **portfolio** and a **public notebook**:
 
 | Category | Content |
 |---|---|
-| **Research** | PhD direction, paper notes, literature reviews, and experiment logs |
+| **Research** | Research direction, paper notes, literature reviews, and experiment logs |
 | **Projects** | ChhlatBot, FLASS, Sovorn OS, and agent-memory work |
 | **Writing** | Thoughts on AI systems, academia, and the PhD journey |
 | **CV** | Education, experience, skills, awards, and contact links |
 
 ### Currently Working On
 
-- **PhD Applications** — preparing New Zealand PhD scholarship applications in Computer Science / AI systems
+- **Doctoral Research Direction** — shaping Computer Science / AI systems research around agent memory and context engineering
 - **Context-Agent Systems** — developing persistent memory and context architectures for LLM agents
 - **Paper Reviews** — reading around memory-augmented agents, clinical AI reliability, and applied ML systems
 

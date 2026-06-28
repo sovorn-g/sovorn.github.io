@@ -10,11 +10,11 @@ description: Academic and industry profile.
 
 # CV
 
-This page is a compact web CV for academic, AI systems, and remote-work readers.
+Compact web CV for academic, AI systems, and remote-work readers.
 
 ## Profile
 
-PhD applicant with an M.E. in Computer Science and Technology, a B.S. in Management of Information Systems, IEEE-published applied machine-learning research, and hands-on experience building AI workflow automation systems.
+AI systems builder and research-oriented engineer with an M.E. in Computer Science and Technology, a B.S. in Management of Information Systems, IEEE-published applied machine-learning research, and hands-on experience building AI workflow automation systems.
 
 ## Education
 
