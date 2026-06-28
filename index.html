@@ -1,4 +1,78 @@
 ---
-layout: home
-# Index page
+layout: page
+title: Home
+description: Portfolio and research profile for Sovorn Chea.
 ---
+
+<link rel="stylesheet" href="{{ '/assets/css/portfolio.css' | relative_url }}">
+
+<section class="portfolio-hero" aria-labelledby="portfolio-title">
+  <div class="portfolio-hero__copy">
+    <p class="portfolio-kicker">AI / ML research and engineering</p>
+    <h1 id="portfolio-title">Sovorn Chea</h1>
+    <p class="portfolio-lede">
+      I work on AI agents, memory systems, cognitive architectures, causal representation learning, and continual learning.
+    </p>
+    <p class="portfolio-note">
+      This site is my portfolio, research notebook, and public record of projects in progress.
+    </p>
+    <div class="portfolio-actions" aria-label="Primary links">
+      <a href="{{ '/projects/' | relative_url }}">View projects</a>
+      <a href="{{ '/research/' | relative_url }}">Research focus</a>
+      <a href="{{ '/contact/' | relative_url }}">Contact</a>
+    </div>
+  </div>
+  <div class="portfolio-hero__media" aria-label="Profile image">
+    <img src="https://pbs.twimg.com/profile_images/1826112715833880576/HJLOUYEQ_400x400.jpg" alt="Portrait of Sovorn Chea">
+  </div>
+</section>
+
+<section class="portfolio-section" aria-labelledby="focus-title">
+  <p class="portfolio-section__eyebrow">Positioning</p>
+  <h2 id="focus-title">Built for academic and industry readers.</h2>
+  <p>
+    I am shaping my work around memory-augmented agents, persistent context, and systems that can learn, reflect, and adapt over time. The goal of this site is to make that direction visible to research collaborators, PhD programs, hiring teams, and remote teams looking for AI/ML engineering depth.
+  </p>
+</section>
+
+<section class="portfolio-section" aria-labelledby="work-title">
+  <p class="portfolio-section__eyebrow">Selected focus areas</p>
+  <h2 id="work-title">Research interests with implementation bias.</h2>
+  <div class="portfolio-list">
+    <article>
+      <h3>Agent memory and context systems</h3>
+      <p>Persistent memory, retrieval, reflection, and evaluation for agents that need useful long-term context.</p>
+    </article>
+    <article>
+      <h3>Cognitive architectures</h3>
+      <p>Bridging ideas from human cognition with practical architectures for planning, learning, and adaptation.</p>
+    </article>
+    <article>
+      <h3>Causal and representation learning</h3>
+      <p>Understanding structure behind data, not only fitting surface correlations.</p>
+    </article>
+  </div>
+</section>
+
+<section class="portfolio-section" aria-labelledby="proof-title">
+  <p class="portfolio-section__eyebrow">Proof paths</p>
+  <h2 id="proof-title">Where to look next.</h2>
+  <div class="portfolio-links">
+    <a href="{{ '/projects/' | relative_url }}">
+      <strong>Projects</strong>
+      <span>Implementation notes, prototypes, and technical work.</span>
+    </a>
+    <a href="{{ '/research/' | relative_url }}">
+      <strong>Research</strong>
+      <span>Topics, reading direction, and academic interests.</span>
+    </a>
+    <a href="{{ '/writing/' | relative_url }}">
+      <strong>Writing</strong>
+      <span>Posts, notes, and longer reflections.</span>
+    </a>
+    <a href="{{ '/cv/' | relative_url }}">
+      <strong>CV</strong>
+      <span>A focused academic and industry profile.</span>
+    </a>
+  </div>
+</section>

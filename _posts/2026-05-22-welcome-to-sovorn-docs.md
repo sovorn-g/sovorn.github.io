@@ -1,14 +1,14 @@
 ---
-title: Welcome to Sovorn Docs
+title: Welcome to My Research Notebook
 date: 2026-05-22 08:00:00 +0700
 categories: [Personal, Introduction]
 tags: [welcome, about, personal-docs]
-description: A place to document my personal life — thoughts, research, projects, and everything in between.
+description: A place to document research notes, project logs, and work on AI agents and memory systems.
 ---
 
-## Hello, World! 👋
+## Hello
 
-Welcome to **Sovorn Docs** — my personal documentation space. This is where I'll be sharing and organizing bits of my life: research notes, project logs, reflections, and anything else worth writing down.
+Welcome to my research notebook and portfolio. This is where I share research notes, project logs, paper reviews, and technical reflections around AI agents, memory systems, cognitive architectures, and learning systems.
 
 ### About Me
 
@@ -21,7 +21,7 @@ I'm **Sovorn Chea**, a PhD aspirant deeply interested in:
 
 ### What to Expect Here
 
-This site serves as both a **personal knowledge base** and a **public journal**. You'll find:
+This site serves as both a **portfolio** and a **public notebook**. You'll find:
 
 | Category | Content |
 |---|---|
@@ -40,9 +40,9 @@ This site serves as both a **personal knowledge base** and a **public journal**.
 
 If something here catches your eye, feel free to reach out!
 
-- **GitHub**: [@heavorn](https://github.com/heavorn)
+- **GitHub**: [@sovorn-g](https://github.com/sovorn-g)
 - **Twitter/X**: [@sovornjg](https://twitter.com/sovornjg)
 
 ---
 
-*This is just the beginning. More posts coming soon!*
+*This is just the beginning. More notes and project write-ups are coming soon.*
