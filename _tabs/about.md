@@ -10,7 +10,7 @@ description: About Sovorn Chea.
 
 # Sovorn Chea
 
-I am focused on AI agents, memory systems, cognitive architectures, causal representation learning, and continual learning.
+I am a PhD applicant and AI systems builder from Cambodia. I hold an M.E. in Computer Science and Technology from Hunan University and a B.S. in Management of Information Systems from Paragon International University.
 
 This site is structured for two audiences:
 
@@ -19,14 +19,22 @@ This site is structured for two audiences:
 
 ## Current Direction
 
-My current interests center on agents that can keep useful context over time: remembering prior interactions, reflecting on new information, retrieving the right details, and adapting without losing earlier knowledge.
+My current direction is system-building research in agentic AI, agent memory, context engineering, and AI automation. I am preparing PhD scholarship applications in New Zealand while shaping a research direction that stays useful for real AI systems work.
 
 I am especially interested in:
 
-- Memory-augmented agents and persistent context systems.
-- Cognitive architectures for planning, reflection, and learning.
-- Causal inference and representation learning.
-- Continual learning and systems that improve without catastrophic forgetting.
+- Agent loops, tool use, planning, and long-running AI workflows.
+- Episodic, semantic, working, and decision memory for AI agents.
+- Context selection, compression, retrieval, and state representation.
+- Human-in-the-loop automation for messy real-world workflows.
+- Safe self-improvement and deferral in clinical or high-stakes decision support.
+
+## Background
+
+- Built ChhlatBot, an AI workflow automation platform for small-business customer interactions across Facebook, Instagram, Telegram, and web channels.
+- Developed RAG pipelines with PostgreSQL/pgvector, semantic retrieval, reranking, answerability checks, human escalation, and knowledge-gap reporting.
+- Published applied machine-learning research in IEEE Transactions on Instrumentation and Measurement through master's thesis work on lightweight shipping-container attribute detection and recognition.
+- Worked as a Data Analyst Intern at Smart Axiata, analyzing more than 10 million SQL records for business intelligence and recommendation work.
 
 ## What This Site Contains
 

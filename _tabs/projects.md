@@ -10,27 +10,35 @@ description: Selected project areas and technical work.
 
 # Projects
 
-This page is for selected technical work. The current project areas below reflect the direction of the portfolio; add links to repositories, demos, papers, or write-ups as each item becomes public.
+Selected work is grouped by what it proves: production-minded AI systems, research training, and current agent-memory direction.
 
 <div class="portfolio-list">
   <article>
-    <h3>Context-agent systems</h3>
-    <p>Persistent memory architectures for LLM agents, with emphasis on retrieval, summarization, reflection, and usable long-term context.</p>
-    <p><strong>Status:</strong> in progress.</p>
+    <h3>ChhlatBot</h3>
+    <p>Founder and AI systems builder for a workflow automation platform serving small-business customer interactions across Facebook, Instagram, Telegram, and web channels.</p>
+    <p><strong>System:</strong> RAG, PostgreSQL/pgvector, semantic retrieval, reranking, LLM answerability checks, stateful order workflows, human escalation, and dashboard tooling.</p>
+    <p><a href="https://chhlatbot.com">chhlatbot.com</a></p>
   </article>
   <article>
-    <h3>Agent memory evaluations</h3>
-    <p>Experiments for checking whether an agent can preserve useful information, ignore noise, and retrieve context at the right time.</p>
-    <p><strong>Status:</strong> planned write-ups.</p>
+    <h3>FLASS</h3>
+    <p>Master's thesis and IEEE-published applied ML research on lightweight shipping-container attribute detection and recognition.</p>
+    <p><strong>System:</strong> YOLOv8-based detection, SVTR-based text recognition, data cleaning, annotation, augmentation, evaluation scripts, and accuracy-speed-model-size analysis.</p>
+    <p><a href="https://github.com/sovorn-g/FLASS">github.com/sovorn-g/FLASS</a></p>
   </article>
   <article>
-    <h3>Paper review system</h3>
-    <p>A structured workflow for reviewing memory-augmented agents, vector quantization, causal representation learning, and continual learning papers.</p>
-    <p><strong>Status:</strong> notes and reviews to be published.</p>
+    <h3>Sovorn OS</h3>
+    <p>Personal second-brain and agent-operable memory workspace designed around readable files, project orientation, graph records, and cross-agent portability.</p>
+    <p><strong>Relevance:</strong> practical context-engineering work for agents that need persistent state without hiding memory inside one tool.</p>
+  </article>
+  <article>
+    <h3>Agent memory and context systems</h3>
+    <p>Current research direction for reliable long-running AI workflows: working memory, episodic memory, semantic memory, decision memory, retrieval, summarization, and evaluation.</p>
+    <p><strong>Status:</strong> active research and portfolio direction.</p>
   </article>
 </div>
 
 ## Public Links
 
 - GitHub: [sovorn-g](https://github.com/sovorn-g)
+- ChhlatBot: [chhlatbot.com](https://chhlatbot.com)
 - Writing: [latest notes]({{ '/writing/' | relative_url }})

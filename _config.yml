@@ -16,10 +16,10 @@ timezone:
 
 title: Sovorn Chea # the main title
 
-tagline: AI agents, memory systems, and applied research # it will display as the subtitle
+tagline: PhD applicant and AI systems builder # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Personal portfolio and research notebook for Sovorn Chea, focused on AI agents, memory systems, cognitive architectures, and applied machine learning.
+  Personal portfolio and research notebook for Sovorn Chea, focused on agentic AI, context engineering, AI automation, and applied machine learning systems.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -35,10 +35,11 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Sovorn Chea
-  email: # change to your email address
+  email: cheasovorn4@gmail.com # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
+    - https://www.linkedin.com/in/painbyte # change to your Linkedin homepage
     - https://twitter.com/sovornjg # change to your Twitter homepage
     - https://github.com/sovorn-g # change to your GitHub homepage
     # Uncomment below to add more social links
@@ -99,7 +100,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pbs.twimg.com/profile_images/1826112715833880576/HJLOUYEQ_400x400.jpg
+avatar: /assets/img/profile.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

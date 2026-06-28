@@ -10,28 +10,44 @@ description: Research interests and reading direction.
 
 # Research
 
-My research direction is centered on AI systems that can retain useful context, reason over experience, and adapt over time.
+My research direction is system-building work in agentic AI: design useful architectures, implement them, evaluate them, and turn them into reusable methods or benchmarks.
 
 ## Focus Areas
 
 <div class="portfolio-list">
   <article>
-    <h3>AI agents and memory systems</h3>
-    <p>Long-term memory, retrieval, reflection, and context management for agents that need to act across many interactions.</p>
+    <h3>Agentic AI</h3>
+    <p>Autonomous agent loops, planning, tool use, and multi-step work where an AI system must coordinate actions over time.</p>
   </article>
   <article>
-    <h3>Cognitive architectures</h3>
-    <p>Practical architectures inspired by human memory, attention, planning, and learning.</p>
+    <h3>Agentic memory</h3>
+    <p>Working, episodic, semantic, and decision memory for agents that need continuity across sessions, tools, and tasks.</p>
   </article>
   <article>
-    <h3>Causal inference and representation learning</h3>
-    <p>Methods for learning useful structure and explanations, not only prediction surfaces.</p>
+    <h3>Context engineering</h3>
+    <p>Context selection, compression, state representation, retrieval, and evaluation pipelines for reliable tool-using agents.</p>
   </article>
   <article>
-    <h3>Continual learning</h3>
-    <p>Systems that improve over time while reducing forgetting and preserving useful prior knowledge.</p>
+    <h3>AI automation</h3>
+    <p>End-to-end LLM-powered workflows with human escalation, operational constraints, and measurable reliability.</p>
   </article>
 </div>
+
+## Current PhD Direction
+
+The strongest umbrella direction is reliable memory and context systems for LLM agents. For the AUT clinical-AI track, the current proposal direction is:
+
+> Safer self-improving clinical decision support through metacognitive experiential memory.
+
+The core idea is a memory-level mechanism around a clinical decision-support system: learn from outcomes and clinician override signals, estimate where the system is competent, and defer when its experience is insufficient. The focus is not retraining a base model; it is building a governed memory and competence layer that can be evaluated safely.
+
+## Evidence Base
+
+- M.E. in Computer Science and Technology, Hunan University.
+- B.S. in Management of Information Systems, Paragon International University.
+- IEEE-published applied ML research from master's thesis work.
+- AI automation and chatbot systems experience through ChhlatBot.
+- Data-analysis experience from telecom business intelligence work.
 
 ## Reading And Notes
 
@@ -39,6 +55,6 @@ Research notes and paper reviews will be published through [Writing]({{ '/writin
 
 ## Open To
 
-- Research collaboration around memory-augmented agents.
-- PhD conversations in AI/ML, agents, and learning systems.
-- Applied research and remote engineering roles where research depth is useful.
+- Research collaboration around agent memory, context engineering, and AI automation.
+- PhD conversations in AI/ML, agentic AI, clinical AI reliability, and learning systems.
+- Applied research, AI systems, AI engineering, and forward-deployed AI roles.

@@ -8,16 +8,16 @@ description: A place to document research notes, project logs, and work on AI ag
 
 ## Hello
 
-Welcome to my research notebook and portfolio. This is where I share research notes, project logs, paper reviews, and technical reflections around AI agents, memory systems, cognitive architectures, and learning systems.
+Welcome to my research notebook and portfolio. This is where I share research notes, project logs, paper reviews, and technical reflections around agentic AI, context engineering, AI automation, and applied machine-learning systems.
 
 ### About Me
 
-I'm **Sovorn Chea**, a PhD aspirant deeply interested in:
+I'm **Sovorn Chea**, a PhD applicant and AI systems builder interested in:
 
-- 🤖 **AI Agents & Memory Systems** — building agents that truly remember, reflect, and learn
-- 🧠 **Cognitive Architectures** — bridging human cognition with machine intelligence
-- 📄 **Causal Inference & Representation Learning** — understanding the "why" behind the data
-- 🔬 **Continual Learning** — models that grow without forgetting
+- **Agentic AI** — autonomous agents, agent loops, planning, and tool use
+- **Agentic Memory** — episodic, semantic, working, and decision memory for AI agents
+- **Context Engineering** — structuring, compressing, and managing context for LLMs and agents
+- **AI Automation** — end-to-end LLM-powered workflows with human oversight
 
 ### What to Expect Here
 
@@ -25,22 +25,23 @@ This site serves as both a **portfolio** and a **public notebook**. You'll find:
 
 | Category | Content |
 |---|---|
-| **📚 Research** | Paper notes, literature reviews, and experiment logs |
-| **🛠️ Projects** | Work-in-progress builds, tools, and side projects |
-| **✍️ Reflections** | Thoughts on AI, academia, and the PhD journey |
-| **📖 Guides** | Tutorials and write-ups on things I've learned |
+| **Research** | PhD direction, paper notes, literature reviews, and experiment logs |
+| **Projects** | ChhlatBot, FLASS, Sovorn OS, and agent-memory work |
+| **Writing** | Thoughts on AI systems, academia, and the PhD journey |
+| **CV** | Education, experience, skills, awards, and contact links |
 
 ### Currently Working On
 
-- 🎓 **PhD Applications** — exploring programs in AI/ML with a focus on agent memory
-- 🧩 **Context-Agent Systems** — developing persistent memory architectures for LLMs
-- 📝 **Paper Reviews** — diving deep into memory-augmented agents, vector quantization, and causal representation learning
+- **PhD Applications** — preparing New Zealand PhD scholarship applications in Computer Science / AI systems
+- **Context-Agent Systems** — developing persistent memory and context architectures for LLM agents
+- **Paper Reviews** — reading around memory-augmented agents, clinical AI reliability, and applied ML systems
 
 ### Let's Connect
 
 If something here catches your eye, feel free to reach out!
 
 - **GitHub**: [@sovorn-g](https://github.com/sovorn-g)
+- **LinkedIn**: [painbyte](https://www.linkedin.com/in/painbyte)
 - **Twitter/X**: [@sovornjg](https://twitter.com/sovornjg)
 
 ---
