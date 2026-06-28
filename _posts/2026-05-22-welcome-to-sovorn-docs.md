@@ -8,7 +8,7 @@ description: A place to document research notes, project logs, and work on AI ag
 
 ## Hello
 
-This research notebook and portfolio collects research notes, project logs, paper reviews, and technical reflections around agentic AI, context engineering, AI automation, and applied machine-learning systems.
+This research notebook and portfolio collects research notes, project logs, paper reviews, and technical reflections around agentic AI, clinical AI reliability, context engineering, AI automation, and applied machine-learning systems.
 
 ### About Me
 
@@ -16,6 +16,7 @@ This research notebook and portfolio collects research notes, project logs, pape
 
 - **Agentic AI** — autonomous agents, agent loops, planning, and tool use
 - **Agentic Memory** — episodic, semantic, working, and decision memory for AI agents
+- **Clinical AI Reliability** — safe decision support, deferral, and human oversight in high-stakes settings
 - **Context Engineering** — structuring, compressing, and managing context for LLMs and agents
 - **AI Automation** — end-to-end LLM-powered workflows with human oversight
 

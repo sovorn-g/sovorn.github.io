@@ -8,8 +8,6 @@ description: Contact Sovorn Chea.
 
 <link rel="stylesheet" href="{{ '/assets/css/portfolio.css' | relative_url }}">
 
-# Contact
-
 For research, collaboration, hiring, or remote-work conversations:
 
 - Email: [cheasovorn4@gmail.com](mailto:cheasovorn4@gmail.com)
@@ -18,4 +16,4 @@ For research, collaboration, hiring, or remote-work conversations:
 - ChhlatBot: [chhlatbot.com](https://chhlatbot.com)
 - X/Twitter: [sovornjg](https://twitter.com/sovornjg)
 
-Open to conversations around doctoral research supervision, AI systems research, applied AI engineering, forward-deployed AI work, and remote opportunities.
+Open to conversations around doctoral research supervision, clinical AI reliability, AI systems research, applied AI engineering, forward-deployed AI work, and remote opportunities.

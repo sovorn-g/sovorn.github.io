@@ -8,8 +8,6 @@ description: Research interests and reading direction.
 
 <link rel="stylesheet" href="{{ '/assets/css/portfolio.css' | relative_url }}">
 
-# Research
-
 The research direction is system-building work in agentic AI: design useful architectures, implement them, evaluate them, and turn them into reusable methods or benchmarks.
 
 ## Focus Areas
@@ -30,6 +28,10 @@ The research direction is system-building work in agentic AI: design useful arch
   <article>
     <h3>AI automation</h3>
     <p>End-to-end LLM-powered workflows with human escalation, operational constraints, and measurable reliability.</p>
+  </article>
+  <article>
+    <h3>Clinical AI reliability</h3>
+    <p>Clinical decision-support systems, competence-aware memory, calibrated support, deferral, and human oversight in high-stakes settings.</p>
   </article>
 </div>
 
@@ -57,4 +59,4 @@ Research notes and paper reviews will be published through [Writing]({{ '/writin
 
 - Research collaboration around agent memory, context engineering, and AI automation.
 - Academic conversations in AI/ML, agentic AI, clinical AI reliability, and learning systems.
-- Applied research, AI systems, AI engineering, and forward-deployed AI roles.
+- Applied research, clinical AI reliability, AI systems, AI engineering, and forward-deployed AI roles.

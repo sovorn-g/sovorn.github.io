@@ -8,8 +8,6 @@ description: Academic and industry profile.
 
 <link rel="stylesheet" href="{{ '/assets/css/portfolio.css' | relative_url }}">
 
-# CV
-
 Compact web CV for academic, AI systems, and remote-work readers.
 
 ## Profile
@@ -68,6 +66,7 @@ Master's thesis and IEEE-published research on fast, lightweight automatic shipp
 - Agentic AI: agent loops, planning, tool use, and autonomous workflows.
 - Agentic memory: episodic, semantic, working, and decision memory.
 - Context engineering for LLMs and tool-using agents.
+- Clinical AI reliability and safe decision-support systems.
 - AI automation and human-in-the-loop workflow systems.
 - Applied ML systems and reproducible evaluation.
 
@@ -87,7 +86,7 @@ Master's thesis and IEEE-published research on fast, lightweight automatic shipp
 
 ## Open To
 
-Academic conversations, applied research roles, AI/ML engineering roles, forward-deployed AI engineering roles, and remote opportunities that align with agent systems or machine-learning infrastructure.
+Academic conversations, clinical AI reliability research, applied research roles, AI/ML engineering roles, forward-deployed AI engineering roles, and remote opportunities that align with agent systems or machine-learning infrastructure.
 
 ## Links
 

@@ -27,7 +27,7 @@ Key interests:
 - Episodic, semantic, working, and decision memory for AI agents.
 - Context selection, compression, retrieval, and state representation.
 - Human-in-the-loop automation for messy real-world workflows.
-- Safe self-improvement and deferral in clinical or high-stakes decision support.
+- Clinical AI reliability, safe self-improvement, and deferral in high-stakes decision support.
 
 ## Background
 

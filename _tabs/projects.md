@@ -8,8 +8,6 @@ description: Selected project areas and technical work.
 
 <link rel="stylesheet" href="{{ '/assets/css/portfolio.css' | relative_url }}">
 
-# Projects
-
 Selected work is grouped by what it proves: production-minded AI systems, research training, and current agent-memory direction.
 
 <div class="portfolio-list">
